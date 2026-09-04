@@ -1,0 +1,11 @@
+{
+  "name": "Vani Pay",
+  "description": "Voice-first UPI and digital payments web application with conversational two-way speech guidance and biometric authorization.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
